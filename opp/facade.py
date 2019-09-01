@@ -1,5 +1,5 @@
 # coding=utf-8
-__author__ = 'PAY.ON'
+__author__ = 'ALLSECURE'
 import opp.core
 import opp.utils
 import logging

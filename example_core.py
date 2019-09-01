@@ -1,4 +1,4 @@
-__author__ = 'PAY.ON'
+__author__ = 'ALLSECURE'
 import opp
 
 if __name__ == "__main__":

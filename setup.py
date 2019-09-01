@@ -1,5 +1,5 @@
 # coding=utf-8
-__author__ = 'PAY.ON'
+__author__ = 'ALLSECURE'
 import sys
 
 if sys.version_info < (3, 4):
@@ -13,9 +13,9 @@ setup(
     name='opp',
     version='1.3.1',
     description='Python wrapper for OPP',
-    author='PAY.ON',
-    author_email='opp@payon.com',
-    url='https://github.com/OpenPaymentPlatform/python',
+    author='ALLSECURE',
+    author_email='support@allsecpay.com',
+    url='https://github.com/allsecure-pay/open-python',
     license='MIT',
     packages=['opp'],
     classifiers=[
@@ -30,5 +30,5 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
     install_requires=install_requires,
-    download_url='https://github.com/OpenPaymentPlatform/python/tarball/1.3.1'
+    download_url='https://github.com/allsecure-pay/open-python.git'
 )

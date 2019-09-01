@@ -1,2 +1,2 @@
-__author__ = 'PAY.ON'
+__author__ = 'ALLSECURE'
 from . import abstract_payments_test_case

@@ -1,4 +1,4 @@
-__author__ = 'PAY.ON'
+__author__ = 'ALLSECURE'
 import opp
 import logging
 logging.basicConfig(level=logging.DEBUG, filename='opp.log')

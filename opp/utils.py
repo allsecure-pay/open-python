@@ -1,5 +1,5 @@
 # coding=utf-8
-__author__ = 'PAY.ON'
+__author__ = 'ALLSECURE'
 
 # Successful result codes
 SUCCESSFUL = ("000.000.000",

@@ -1,4 +1,4 @@
-__author__ = 'PAY.ON'
+__author__ = 'ALLSECURE'
 try:
     import unittest2 as unittest
 except ImportError:

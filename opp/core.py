@@ -1,5 +1,5 @@
 # coding=utf-8
-__author__ = 'PAY.ON'
+__author__ = 'ALLSECURE'
 from requests import Session
 import opp.config
 from six.moves import http_client

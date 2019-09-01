@@ -1,4 +1,4 @@
-__author__ = 'PAY.ON'
+__author__ = 'ALLSECURE'
 # following module represents the configuration of the OPP library
 # all configuration values apply both for opp.core and opp.facade modules
 
