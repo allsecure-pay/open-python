@@ -229,39 +229,39 @@ BOLETO = {"amount": "1.03",
           "billing.street1": "Amazonstda",
           "billing.postcode": "12345678",
           "customParameters[BRADESCO_cpfsacado]": "11111111111",
-          "shopperResultUrl": "https://docs.oppwa.com", "testMode": "EXTERNAL",
+          "shopperResultUrl": "https://allsecure.docs.oppwa.com", "testMode": "EXTERNAL",
           "testMode": "EXTERNAL"}
 
 CHINAUNIONPAY = {"amount": "12.12",
                  "currency": "USD",
                  "paymentBrand": "CHINAUNIONPAY",
-                 "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+                 "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 DAOPAY = {"amount": "12.12",
           "currency": "EUR",
           "paymentBrand": "DAOPAY",
           "billing.country": "DE",
-          "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+          "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 EPS = {"amount": "12.12",
        "currency": "EUR",
        "paymentBrand": "EPS",
        "bankAccount.country": "AT",
-       "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+       "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 GIROPAY = {"amount": "12.12",
            "currency": "EUR",
            "paymentBrand": "GIROPAY",
            "bankAccount.bic": "TESTDETT421",
            "bankAccount.iban": "DE14940593100000012346",
-           "bankAccount.country": "DE", "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+           "bankAccount.country": "DE", "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 IDEAL = {"amount": "92.12",
          "currency": "EUR",
          "paymentBrand": "IDEAL",
          "bankAccount.bankName": "ING_TEST",
          "bankAccount.country": "NL",
-         "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+         "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 KLARNA_INSTALLMENTS = {"amount": "92.12",
                        "currency": "EUR",
@@ -275,7 +275,7 @@ KLARNA_INSTALLMENTS = {"amount": "92.12",
                        "cart.items[0].name": "Product 1",
                        "cart.items[0].price": "1.00",
                        "cart.items[0].tax": "6.00",
-                       "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+                       "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 KLARNA_INVOICE = {"amount": "92.12",
                   "currency": "EUR",
@@ -289,12 +289,12 @@ KLARNA_INVOICE = {"amount": "92.12",
                   "cart.items[0].name": "Product 1",
                   "cart.items[0].price": "1.00",
                   "cart.items[0].tax": "6.00",
-                  "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+                  "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 MONEYBOOKERS = {"amount": "92.12",
                  "currency": "USD",
                  "paymentBrand": "MONEYBOOKERS",
-                 "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+                 "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 PAYOLUTION_ELV = {"amount": "92.12",
                   "currency": "EUR",
@@ -312,7 +312,7 @@ PAYOLUTION_ELV = {"amount": "92.12",
                   "customParameters[PAYOLUTION_ITEM_PRICE_2]": "3.00",
                   "customParameters[PAYOLUTION_ITEM_DESCR_2]": "Test item #2",
                   "testMode": "EXTERNAL",
-                  "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+                  "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 PAYOLUTION_INS = {"amount": "92.12",
                   "currency": "EUR",
@@ -330,7 +330,7 @@ PAYOLUTION_INS = {"amount": "92.12",
                   "customParameters[PAYOLUTION_ITEM_PRICE_2]": "3.00",
                   "customParameters[PAYOLUTION_ITEM_DESCR_2]": "Test item #2",
                   "testMode": "EXTERNAL",
-                  "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+                  "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 PAYOLUTION_INVOICE = {"amount": "92.12",
                       "currency": "EUR",
@@ -348,17 +348,17 @@ PAYOLUTION_INVOICE = {"amount": "92.12",
                       "customParameters[PAYOLUTION_ITEM_PRICE_2]": "3.00",
                       "customParameters[PAYOLUTION_ITEM_DESCR_2]": "Test item #2",
                       "testMode": "EXTERNAL",
-                      "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+                      "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 PAYPAL = {"amount": "92.12",
           "currency": "EUR",
           "paymentBrand": "PAYPAL",
-          "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+          "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 PAYSAFECARD = {"amount": "92.12",
                "currency": "EUR",
                "paymentBrand": "PAYSAFECARD",
-               "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+               "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 PAYTRAIL = {"amount": "92.12",
             "currency": "EUR",
@@ -366,23 +366,23 @@ PAYTRAIL = {"amount": "92.12",
             "bankAccount.bankName": "Bank Paytrail",
             "bankAccount.country": "FI",
             "bankAccount.holder": "Jane Jones",
-            "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+            "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 PF_KARTE_DIRECT = {"amount": "92.12",
                    "currency": "CHF",
                    "paymentBrand": "PF_KARTE_DIRECT",
-                   "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+                   "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 POLI = {"amount": "92.12",
         "currency": "AUD",
         "paymentBrand": "POLI",
         "bankAccount.country": "AU",
-        "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+        "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 PREPAYMENT = {"amount": "92.12",
               "currency": "EUR",
               "paymentBrand": "PREPAYMENT",
-              "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+              "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 PRZELEWY = {"amount": "92.12",
             "currency": "PLN",
@@ -390,13 +390,13 @@ PRZELEWY = {"amount": "92.12",
             "customer.givenName": "Jane",
             "customer.surname": "Jones",
             "customer.email": "test@test.com",
-            "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+            "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 SOFORTUEBERWEISUNG = {"amount": "92.12",
                       "currency": "EUR",
                       "paymentBrand": "SOFORTUEBERWEISUNG",
                       "bankAccount.country": "AT",
-                      "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+                      "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 TRUSTLY = {"amount": "92.12",
            "currency": "EUR",
@@ -406,7 +406,7 @@ TRUSTLY = {"amount": "92.12",
            "customer.surname": "Jones",
            "billing.country": "DE",
            "merchantTransactionId": "abc123",
-           "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+           "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 TRUSTPAY_VA = {"amount": "92.12",
                "currency": "EUR",
@@ -415,14 +415,14 @@ TRUSTPAY_VA = {"amount": "92.12",
                "customer.surname": "Jones",
                "customer.email": "test@test.com",
                "testMode": "EXTERNAL",
-               "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+               "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 UKASH = {"amount": "92.12",
          "currency": "EUR",
          "paymentBrand": "UKASH",
-         "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+         "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}
 
 YANDEX = {"amount": "92.12",
           "currency": "RUB",
           "paymentBrand": "YANDEX",
-          "shopperResultUrl": "https://docs.oppwa.com/?q=initial-payment"}
+          "shopperResultUrl": "https://allsecure.docs.oppwa.com/?q=initial-payment"}

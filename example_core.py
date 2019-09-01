@@ -72,7 +72,7 @@ if __name__ == "__main__":
                                                   "billing.street1": "Amazonstda",
                                                   "billing.postcode": "12345678",
                                                   "customParameters[BRADESCO_cpfsacado]": "11111111111",
-                                                  "shopperResultUrl": "https://docs.oppwa.com",
+                                                  "shopperResultUrl": "https://allsecure.docs.oppwa.com",
                                                   "testMode": "EXTERNAL"})
 
     print("------Registration with async payment method------")
