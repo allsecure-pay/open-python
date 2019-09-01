@@ -1,10 +1,10 @@
 # opp-python
-Python wrapper for the [PAY.ON’s Open Payment Platform](https://docs.oppwa.com/) server-to-server REST API.
+Python wrapper for the [Open Payment Platform](https://allsecure.docs.oppwa.com/) server-to-server REST API.
 
 ## Getting started
 
-- We highly recommend to start with the [integration guide](https://docs.oppwa.com/) to get familiar with the OPP workflow.
-- Check the server-to-server [documentation](https://docs.oppwa.com/server-to-server) and try out our code snippets.
+- We highly recommend to start with the [integration guide](https://allsecure.docs.oppwa.com/) to get familiar with the OPP workflow.
+- Check the server-to-server [documentation](https://allsecure.docs.oppwa.com/server-to-server) and try out our code snippets.
 - Install the latest release.
 - Take a look at our [tests](tests/) to see the wrapper in action.
 
@@ -90,7 +90,7 @@ import opp.facade
 ```
 
 #### Objects
-The facade interface is exposing convenience Python objects for the Open Payment Platform [parameters](https://docs.oppwa.com/parameters#) for inputs, as well as for response parameters. Following examples show some of the these objects and how to create them.
+The facade interface is exposing convenience Python objects for the Open Payment Platform [parameters](https://allsecure.docs.oppwa.com/parameters#) for inputs, as well as for response parameters. Following examples show some of the these objects and how to create them.
 **Convention: All object properties in the facade are in snake case notation as opposed to the OPP API reference where a camel case notation is used.**
 
 ##### BasicPayment
@@ -246,7 +246,4 @@ logging.basicConfig(level=logging.DEBUG, filename='opp.log')
 * set core on Registrations and Checkouts instances
 
 ## License
-
-Copyright 2015 PAY.ON AG.
-
 MIT License (enclosed)
