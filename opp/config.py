@@ -8,8 +8,8 @@ TEST_EXTERNAL = 1
 LIVE = 3
 
 #configuration values for OPP
-TEST_URL = "https://test.oppwa.com/v1"  # url used for TEST_INTERNAL and TEST_EXTERNAL mode
-LIVE_URL = 'https://oppwa.com/v1'  # url used for LIVE mode
+TEST_URL = "https://eu-test.oppwa.com/v1"  # url used for TEST_INTERNAL and TEST_EXTERNAL mode
+LIVE_URL = 'https://eu-prod.oppwa.com/v1'  # url used for LIVE mode
 MODE = TEST_INTERNAL  # default value for mode
 REQUEST_TIMEOUT = 60  # default value for all request timeouts
 VALIDATE_SSL = True  # default value for SSL validation for all requests
