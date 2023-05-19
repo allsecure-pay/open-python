@@ -1,5 +1,5 @@
 # open-python
-Python wrapper for the [Open Payment Platform](https://allsecure.docs.oppwa.com/) server-to-server REST API.
+Python wrapper for the [Open Payment Platform](https://allsecure.docs.oppwa.com/) server-to-server REST API..
 
 ## Getting started
 
